@@ -1,0 +1,4 @@
+{% extends display1.html %}
+{% block content %}
+<h2> this template will extend from display1 template </h2>
+{% endblock %}
